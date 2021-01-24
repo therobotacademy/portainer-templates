@@ -1,0 +1,24 @@
+[
+  {
+    "type": 1,
+    "title": "Nginx",
+    "description": "High performance web server",
+    "logo": "https://cloudinovasi.id/assets/img/logos/nginx.png",
+    "image": "nginx:latest",
+    "ports": [
+      "8080:80/tcp",
+      "443/tcp"
+    ]
+  },
+  {
+    "type": 1,
+    "title": "Nginx2",
+    "description": "High performance web server",
+    "logo": "https://cloudinovasi.id/assets/img/logos/nginx.png",
+    "image": "nginx:latest",
+    "ports": [
+      "8080:80/tcp",
+      "443/tcp"
+    ]
+  }
+]
